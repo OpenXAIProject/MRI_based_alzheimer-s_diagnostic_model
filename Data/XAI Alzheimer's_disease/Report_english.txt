@@ -1,0 +1,1 @@
+As a result of MRI analysis of this patient, the brain volume of each region is as follows.Hippocampus: 5032, Ventricle: 75589, Amygdala: 2608, Thalamus: 14064, Putamen: 7845, Whole brain: 1042389.0. as compared to NC, This patient has the following differencesVentricle 83% increase Amygdala 17% increase Thalamus 9% increase Putamen 0% decrease Whole brain 1% decrease 
