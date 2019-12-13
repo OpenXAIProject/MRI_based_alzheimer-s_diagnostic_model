@@ -1,12 +1,12 @@
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
-# Explaining and Visualizing Lung cancer classification
+# Visualizing and Lingustic Explaining alzheimer's disease
 
 ### **CONTENT**
-> 3D convolutional neural network (CNN) for classifying lung nodules in CT scans with Layerwise Relevance Propagation (LRP) algorithm to provide explanation of result
+> 3D convolutional neural network (CNN) for classifying AD(Alzheimer's Disease) and NC(Normal Controls) in MRI scans with Grad-CAM and rule-based algorithm to provide explanation of result
 
 ### **Dataset**
-> https://luna16.grand-challenge.org/download/
+>http://adni.loni.usc.edu/data-samples/data-types/
 
 ### **Reference**
 > heatmapping.org
